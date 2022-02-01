@@ -1,5 +1,7 @@
 # inBook01 : See you in Books!
-([動画のリンク / Video Link](https://youtu.be/R1LSrxXduy0))
+ソロプレイ([動画のリンク / Video Link](https://youtu.be/R1LSrxXduy0))
+
+マルチプレイ([動画リンク / inBook Photon video](https://youtu.be/czBtSLcCEbA))
 
 <p align="center">
   <img src="./Assets/ReadmeImages/ForReadme.jpg" width="738">
