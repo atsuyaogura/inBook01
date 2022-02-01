@@ -40,20 +40,22 @@ What if we can enter books?
 3.	2で作成した本から、プレイヤーは本を選び、Unityはプレイヤーが選んだ本のURLを取得
 4.	Book Sceneのスタート関数で、選んだ本のURLから本文をUnityWebrequestで取得、それを元にページ作成
 
-Photonを使用し、HomeSceneではロビーを用いたマッチメイキング、BookSceneではボイスチャットをできるようにした。
-
-このプロジェクトは（[こちらの講義](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)を大いに参考とした。
-
 (English)
 1. Aside from this unity project, I scraped information about 500 popular Aozora books and save it as [csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv).
 2. Start function in the "HomeScene" makes 500 books accoding to the 1's csv file.
 3. Player chooses his favorite book, and Unity get the books URL.
 4. Start function in the "BookScene" gets book's text, using UnityWebrequest, and instantiates pages.
 
+
+Photonを使用し、HomeSceneではロビーを用いたマッチメイキング、BookSceneではボイスチャットをできるようにした。
+
+このプロジェクトは（[こちらの講義](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)を大いに参考とした。
+
 Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in BookScene.
 
 While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
 
+[inBook Photon test](https://youtu.be/czBtSLcCEbA)
 
 ## 自分のことについて / About Me
 
