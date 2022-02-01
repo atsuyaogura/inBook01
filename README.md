@@ -1,4 +1,5 @@
 # inBook01 : See you in Books!
+## 概要 / Overview
 * ソロプレイ / Soloplay ([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
 * マルチプレイ / Multiplay ([動画リンク / Video Link](https://youtu.be/czBtSLcCEbA))
 
@@ -32,8 +33,6 @@ In books will we encounter someone, share each thought on the book, discuss the 
 
 What if we can enter books?
 
-ソロプレイ / Soloplay ([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
-
 ## 実装したこと / How It Works
 （日本語）
 1.	前もって青空文庫で人気な本の情報を500冊スクレイピング。[csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv)にまとめる。
@@ -54,10 +53,6 @@ Photonを使用し、HomeSceneではロビーを用いたマッチメイキン�
 Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in BookScene.
 
 While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
-
-------------------------------------------------------------------------------------------------------------
-
-マルチプレイ / Multiplay ([動画リンク / Video Link](https://youtu.be/czBtSLcCEbA))
 
 ## 自分のことについて / About Me
 
