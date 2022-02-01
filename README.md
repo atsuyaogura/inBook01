@@ -32,7 +32,7 @@ In books will we encounter someone, share each thought on the book, discuss the 
 
 What if we can enter books?
 
-マルチプレイ / Multiplay([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
+ソロプレイ / Soloplay ([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
 
 ## 実装したこと / How It Works
 （日本語）
@@ -55,7 +55,9 @@ Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in Boo
 
 While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
 
-[動画リンク / inBook Photon video](https://youtu.be/czBtSLcCEbA)
+------------------------------------------------------------------------------------------------------------
+
+マルチプレイ / Multiplay ([動画リンク / Video Link](https://youtu.be/czBtSLcCEbA))
 
 ## 自分のことについて / About Me
 
