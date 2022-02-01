@@ -66,7 +66,7 @@ Unity, C# ともに５か月前にOculus Quest 2を買った際に始めまし�
 
 -------------------------------------------------------------------------------------------------------------
 
-YNU Department of Architecture 3rd year
+YNU. Department of Architecture. 3rd year
 
 I started Unity and C# 5 month ago. As an architecture student, I'm interested in designing space or environment, and lately VR space or environment has lured my interest.
 
