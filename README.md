@@ -40,18 +40,35 @@ What if we can enter books?
 3.	2で作成した本から、プレイヤーは本を選び、Unityはプレイヤーが選んだ本のURLを取得
 4.	Book Sceneのスタート関数で、選んだ本のURLから本文をUnityWebrequestで取得、それを元にページ作成
 
+Photonを使用し、HomeSceneではロビーを用いたマッチメイキング、BookSceneではボイスチャットをできるようにした。
+
+このプロジェクトは（[こちらの講義](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)を大いに参考とした。
+
 (English)
 1. Aside from this unity project, I scraped information about 500 popular Aozora books and save it as [csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv).
 2. Start function in the "HomeScene" makes 500 books accoding to the 1's csv file.
 3. Player chooses his favorite book, and Unity get the books URL.
 4. Start function in the "BookScene" gets book's text, using UnityWebrequest, and instantiates pages.
 
+Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in BookScene.
 
-Photonを使用し、HomeSceneではロビーを用いたマッチメイキング、BookSceneではボイスチャットをできるようにした。
-（[こちらの講義](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)を大いに参考とした。/ I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
+While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
 
-## 自分のことについて
+
+## 自分のことについて / About Me
+
 横浜国立大学　建築学科　3年
+
 Unity, C# ともに５か月前にOculus Quest 2を買った際に始めました。
-建築学科生として物質世界の空間・環境設計に興味がありますが、最近はそれにもましてVRのワールド？環境？設計に魅せられています。
-物質的な世界、電子的な世界、分け隔てなく、楽しい空間、環境を作りたいです。
+
+建築学生として空間・環境設計に興味がありますが、最近、VR空間に魅せられています。
+
+物質的な世界、電子的な世界、分け隔てなく、面白い空間、環境を作りたいです！！
+
+-------------------------------------------------------------------------------------------------------------
+
+YNU Department of Architecture 3rd year
+
+I started Unity and C# 5 month ago. As an architecture student, I'm interested in designing space or environment, and lately VR space or environment has lured my interest.
+
+I want to design interesting space regardless of whether it's physical or electronic!
