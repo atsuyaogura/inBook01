@@ -1,7 +1,6 @@
 # inBook01 : See you in Books!
-ソロプレイ([動画のリンク / Video Link](https://youtu.be/R1LSrxXduy0))
-
-マルチプレイ([動画リンク / inBook Photon video](https://youtu.be/czBtSLcCEbA))
+* ソロプレイ / Soloplay ([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
+* マルチプレイ / Multiplay ([動画リンク / Video Link](https://youtu.be/czBtSLcCEbA))
 
 <p align="center">
   <img src="./Assets/ReadmeImages/ForReadme.jpg" width="738">
@@ -33,7 +32,7 @@ In books will we encounter someone, share each thought on the book, discuss the 
 
 What if we can enter books?
 
-([動画のリンク / Video Link](https://youtu.be/R1LSrxXduy0))
+マルチプレイ / Multiplay([動画リンク / Video Link](https://youtu.be/R1LSrxXduy0))
 
 ## 実装したこと / How It Works
 （日本語）
@@ -55,9 +54,6 @@ Photonを使用し、HomeSceneではロビーを用いたマッチメイキン�
 Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in BookScene.
 
 While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
-
-### Photonでマルチプレイ
-(ロビーマッチメイキング、ボイスチャットを実装した）
 
 [動画リンク / inBook Photon video](https://youtu.be/czBtSLcCEbA)
 
