@@ -35,13 +35,13 @@ What if we can enter books?
 
 ## 実装したこと / How It Works
 （日本語）
-1.	前もって青空文庫で人気な本の情報を500冊スクレイピング。[csv file](./Assets/Resouces/CSV/bookURLtest.csv)にまとめる。
+1.	前もって青空文庫で人気な本の情報を500冊スクレイピング。[csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv)にまとめる。
 2.	Home Sceneのスタート関数で1のExcel fileをもとに本500冊を作成。
 3.	2で作成した本から、プレイヤーは本を選び、Unityはプレイヤーが選んだ本のURLを取得
 4.	Book Sceneのスタート関数で、選んだ本のURLから本文をUnityWebrequestで取得、それを元にページ作成
 
 (English)
-1. Aside from this unity project, I scraped information about 500 popular Aozora books and save it as [csv file](./Assets/Resouces/CSV/bookURLtest.csv).
+1. Aside from this unity project, I scraped information about 500 popular Aozora books and save it as [csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv).
 2. Start function in the "HomeScene" makes 500 books accoding to the 1's csv file.
 3. Player chooses his favorite book, and Unity get the books URL.
 4. Start function in the "BookScene" gets book's text, using UnityWebrequest, and instantiates pages.
